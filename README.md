@@ -5,7 +5,7 @@
  ⚡ I'm Denny,
     a CS UG Student @ CityU HK and a Programmer @ BEA HK
 
- 😄 Currently exploring the world of Open Source and various CS fields 
+ 😄 Currently exploring Behavioural Authentication
 
  💬 HMU for collaboration, a discussion or a coffee!
 
