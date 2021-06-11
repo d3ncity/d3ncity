@@ -3,7 +3,7 @@
 <pre>
 
  ⚡ I'm Denny,
-    a CS UG Student @ CityU HK and a Programmer @ BEA HK
+    a CS UG Student @ CityU HK and a Programmer @ [CryptoBLK](https://www.cryptoblk.io)
 
  😄 Currently exploring: Behavioural Authentication + Blockchain
 
