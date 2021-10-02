@@ -4,9 +4,9 @@
 <pre>
 
  ⚡ I'm Denny,
-    a CS UG Student @ CityU HK and a Programmer @ [CryptoBLK](https://www.cryptoblk.io/)
+    a CS UG Student @ CityU HK 
 
- 😄 Currently exploring: Behavioural Authentication + Blockchain
+ 😄 Currently exploring: Behavioural Authentication
 
  💬 HMU for collaboration, a discussion or a coffee!
 
