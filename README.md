@@ -1,4 +1,4 @@
-### 👋Hey Stranger(?)
+### 👋 Hey there!
 
 <big>
 <pre>
