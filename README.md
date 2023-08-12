@@ -4,9 +4,7 @@
 <pre>
 
  ⚡ I'm Denny,
-    a CS UG Student @ CityU HK 
-
- 😄 Currently exploring: Behavioural Authentication
+    a Software Engineer at OKX
 
  💬 HMU for collaboration, a discussion or a coffee!
 
